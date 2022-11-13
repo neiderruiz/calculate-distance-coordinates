@@ -1,0 +1,34 @@
+{
+  "name": "@neidercode/calculate-distance-coordinates",
+  "version": "1.0.0",
+  "description": "compute distance coordinates",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node esbuild.config.js"
+  },
+  "keywords": [
+    "neiderruiz",
+    "neidercode",
+    "coordinates",
+    "calculate-distance-coordinates"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neidercode/translate-files.git"
+  },
+  "bugs": {
+    "url": "http://github.com/neidercode/translate-files/issues"
+  },
+  "author": {
+    "name": "Neider Ruiz",
+    "email": "neiderbtc@gmail.com",
+    "url": "http://github.com/neidercode/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "esbuild": "^0.15.7",
+    "node-fetch": "^3.2.10"
+  }
+}
