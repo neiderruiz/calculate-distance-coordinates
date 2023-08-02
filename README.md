@@ -3,17 +3,17 @@
 Install in project
 
 ```shell
-npm i @neidercode/calculate-distance-coordinates
+npm i @neiderruiz/calculate-distance-coordinates
 ```
 
 ```shell
-import { getDistanceBetweenPoints } from "@neidercode/calculate-distance-coordinates";
+import { getDistanceBetweenPoints } from "@neiderruiz/calculate-distance-coordinates";
 ```
 
 or
 
 ```node
-const { getDistanceBetweenPoints } = require("@neidercode/calculate-distance-coordinates");
+const { getDistanceBetweenPoints } = require("@neiderruiz/calculate-distance-coordinates");
 ```
 
 usign
